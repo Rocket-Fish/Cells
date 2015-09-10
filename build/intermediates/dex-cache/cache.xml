@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bc71371a3d3f26323d676aab3ba4845a531999c8">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\core-1.0-643c84117a0b96da316622a7077b1568d963b89e.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-ed4b9d0e2026d60fe714669f526d11ad24827da9.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-2a5e53f2417df18f462744cb8e55cd8bcbd5cb2a.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-f013770719c480560ded4388a6714862edb73ffd.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-fe6d4968cfe0441c64fb69a0dbd190e83099910f.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-0d77824f05404bd15d55c9802728f3282a1bc2fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jimmy\.gradle\caches\modules-2\files-2.1\com.badlogicgames.box2dlights\box2dlights\1.3\e829c3543ab5a6b3ff818615a8620024f6a14fe0\box2dlights-1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e829c3543ab5a6b3ff818615a8620024f6a14fe0">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\box2dlights-1.3-02a4faf8854df73264407231c3dd38e0ce197ee5.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-7fb48b176ebb3228108a6bae7becf28328a29b06.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-fca46eb1291922111908db1ded878c0d2e9929d3.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-2e60c37e1b18937877ae9d15e5b7dd18911f4ab4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jimmy\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.6.2\14e97f2799e74334d15c59ae90c6247f36b90429\gdx-backend-android-1.6.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="14e97f2799e74334d15c59ae90c6247f36b90429">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.6.2-a5b457ae3ca8be9e869ab47b3baec55d0cd2fc0c.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-d36e36f706a575e41a1b33e9ec78daad02e37635.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-e90d15f30969f26206278c087c6648d04e029c68.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-77fb4dc82b8a4710a1dd31c333444e9dbfc0b157.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\Cells\GameUtils\1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0a4f27f5e28a60b786d8cf9a32f514ebdc88914">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-6cce0deed665053ce10e0f13ad514493f25028b0.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-c1e26966b6fa1e19d75b3f9075b7882b9a05b7ec.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-4608d6437a2c2c4ec2218c4b63210f4902684448.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-09f11cadcca9351112f3838aae0ca09033ecb82d.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-4981a98e228cfe2ed8f5b31e68206c489623b5cd.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-f6529cabfba8b31fdf21dec00c886d904d68b29f.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-296a80ad0cfff071aa3386213211cdc935dd433c.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-532010a2fedfb328cf1e2df19e4f22c0b85e0d90.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jimmy\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.6.2\62705f896186f9294e37daa0ade876e8692310cf\gdx-freetype-1.6.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="62705f896186f9294e37daa0ade876e8692310cf">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\gdx-freetype-1.6.2-f025a3d3ce6032adb92e80530e9e77dc2d0a7d83.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jimmy\AndroidSDK\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-7a08f51a2e4a5446000998052dc0fc58b0437f27.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-2109ef898b78937a32d32b9a3fe3d9daa89dcdfa.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-514c3bc82235e78cfa2683f4f761548479d141bf.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-00936d0e68b83493f5d037e15194e9549e738764.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-80857a31aca92df1a30aadc026d3bcace4b0ae84.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\libs\AdBuddiz-3.0.12.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1d5a61457d554d3f008218f62216013fecde555">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\AdBuddiz-3.0.12-ddae63930925aa9b2b7f9ad886f29db63692bc13.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jimmy\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.6.2\b70b1eb9da71076aa47ac8932b42358b00db84a0\gdx-1.6.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b70b1eb9da71076aa47ac8932b42358b00db84a0">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\gdx-1.6.2-a40921c7031195b405b099bb2a134b36e55d43c1.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-de85d14a7d15ef8fddd707a08f174481d67e353c.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-eea89dd70bbd514af0b4ba4eb16c12aa92bc223e.jar" />
+    </item>
+    <item
+        jar="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\classes-4e5351f3f67a16522357f7a084d6ad44c8cad4f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jimmy\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.6.2\b4406b97b35d7caf7111400ceebc8b92c8998168\gdx-box2d-1.6.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b4406b97b35d7caf7111400ceebc8b92c8998168">
+        <dex dex="H:\JimmyCode\BearFishPhaseII\Cells\Cells\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.6.2-bb9d089fcdb3c1b0f0c571966e92181d9ebf8a65.jar" />
+    </item>
+
+</items>

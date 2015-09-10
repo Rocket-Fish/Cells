@@ -1,0 +1,27 @@
+apply plugin: 'android-library'
+
+repositories {
+    mavenCentral()
+}
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.0.0'
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:+'
+    compile 'com.android.support:support-v4:+'
+    compile 'com.google.android.gms:play-services:+'
+}
+
+android {
+    buildToolsVersion "22.0.1"
+    compileSdkVersion 22
+}
+
